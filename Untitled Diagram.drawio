@@ -1,0 +1,178 @@
+<mxfile host="app.diagrams.net" modified="2022-05-03T10:37:15.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="A0cg9p-oL6m1zxJZu7kb" version="17.4.6" type="github">
+  <diagram id="aOdrmP9tbzpNKiuwT3aD" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="400" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-2" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-3" value="String userName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-4" value="Number userAge" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-5" value="Number userCardNumber" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-6" value="Number userSortCode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-7" value="Number userCvv" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-11" value="Charging Station" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-12" value="String stationName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-13" value="String stationLocation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-14" value="Array avalibleScooters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-16" value="Array chargingScooters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-18" value="Scooter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-19" value="String scooterName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-25" value="Maintenence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-26" value="String maintenenceName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="440" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-28" value="Boolean canWork" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="460" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-29" value="String scooterLocation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-30" value="Number scooterChargeTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-31" value="Boolean scooterReady" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-32" value="Boolean scooterBroken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-34" value="Number scooterRange" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-36" value="Allows access to charging station" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QDZG8M9FuW27wgCZ-DuW-35">
+          <mxGeometry x="0.351" y="-1" relative="1" as="geometry">
+            <mxPoint x="-35" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-37" value="Requests scooter information" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QDZG8M9FuW27wgCZ-DuW-19">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="90" as="sourcePoint" />
+            <mxPoint x="650" y="40" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="QDZG8M9FuW27wgCZ-DuW-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="184.5" as="sourcePoint" />
+            <mxPoint x="690" y="184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-39" value="Returns scooter information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QDZG8M9FuW27wgCZ-DuW-38">
+          <mxGeometry x="-0.1499" y="2" relative="1" as="geometry">
+            <mxPoint x="-12" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.138;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QDZG8M9FuW27wgCZ-DuW-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="771" y="239" as="sourcePoint" />
+            <mxPoint x="780" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="772" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-41" value="Receives broken scooter information&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.819;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.6;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QDZG8M9FuW27wgCZ-DuW-25" target="QDZG8M9FuW27wgCZ-DuW-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="320" as="sourcePoint" />
+            <mxPoint x="880" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-43" value="Updates broken scooter information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-45" value="fixScooter(Scooter)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-54" value="brokenScooter(Maintenence)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-55" value="availableScooters(Charging Station)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-56" value="chargingScooters(Charging Station)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-59" value="availableScooters(App)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.01;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QDZG8M9FuW27wgCZ-DuW-16" target="QDZG8M9FuW27wgCZ-DuW-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-62" value="Assigns scooter to app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="225" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-65" value="requestScooter(Charging Station)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="225" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QDZG8M9FuW27wgCZ-DuW-66" value="returnScooter(Charging Station)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="255" width="210" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
